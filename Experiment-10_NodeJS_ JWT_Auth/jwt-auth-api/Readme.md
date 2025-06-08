@@ -81,8 +81,8 @@ POST /api/students
 Authorization: Bearer Token required
 Body:
 {
-  "name": "Swayam",
-  "age": 21,
+  "name": "Sushanth",
+  "age": 18,
   "course": "Mathematics"
 }
 
@@ -97,8 +97,8 @@ SAMPLE OUTPUT
 [
   {
     "id": 1,
-    "name": "Swayam",
-    "age": 21,
+    "name": "Sushanth Reddy",
+    "age": 18,
     "course": "Mathematics"
   }
 ]
@@ -107,7 +107,7 @@ LICENSE
 This project is open-source and available under the MIT License
 
 Author
-•tarunteja
+•Sushanth Reddy
 
 Contributing
 Feel free to fork this repository and suggest improvements via pull requests. All contributions are welcome!
