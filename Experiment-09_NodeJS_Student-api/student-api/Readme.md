@@ -47,8 +47,8 @@ Add a Student
 POST /api/students
 Body:
 {
-  "name": "Swayam",
-  "age": 21,
+  "name": "Sushanth Reddy",
+  "age": 18,
   "course": " Mathematics"
 }
 
@@ -61,8 +61,8 @@ SAMPLE OUTPUT
 [
   {
     "id": 1,
-    "name": "Swayam",
-    "age": 21,
+    "name": "Sushanth",
+    "age": 18,
     "course": "Mathematics"
   }
 ]
@@ -74,4 +74,4 @@ License
 This project is open-source and available under the MIT License
 
 Author
-•tarunteja
+•Sushanth Reddy
