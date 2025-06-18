@@ -8,7 +8,7 @@
     "start": "nodemon index.js"
   },
   "keywords": [],
-  "author": "Prakash",
+  "author": "Sushanth",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
