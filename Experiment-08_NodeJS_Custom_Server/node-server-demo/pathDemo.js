@@ -1,6 +1,6 @@
 const path = require('path');
 
-const filePath = '/users/prakash/docs/file.txt';
+const filePath = '/users/sushanth/docs/file.txt';
 
 console.log('Directory:', path.dirname(filePath));
 console.log('Extension:', path.extname(filePath));
