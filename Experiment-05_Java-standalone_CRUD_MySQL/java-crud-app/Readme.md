@@ -101,3 +101,4 @@ This project is open-source and available under the MIT License
 
 Author
 •Sushanth Reddy
+![Image](https://github.com/user-attachments/assets/032e16e8-7318-4cc3-96d5-d8aca8a36d8c)
