@@ -49,3 +49,4 @@ Steps to Run the Project
 License
 This project is licensed under the MIT License.
 Developed by Sushanth Reddy
+![image alt](https://github.com/psushanthreddy1/Skill-Development-Course/blob/main/Screenshot%202025-06-08%20203526.png?raw=true)
