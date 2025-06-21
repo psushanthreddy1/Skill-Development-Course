@@ -75,3 +75,7 @@ Feel free to fork this repository and suggest improvements via pull requests. Al
 
 Author
 •Sushanth Reddy
+![Image](https://github.com/user-attachments/assets/81eecd60-33ee-422f-b07c-2b1dbf380a9d)
+![Image](https://github.com/user-attachments/assets/adb3071a-d00a-4c42-be7d-120941e8b3f8)
+![Image](https://github.com/user-attachments/assets/74a4519e-c9e0-4659-9c09-6949b7f83261)
+![Image](https://github.com/user-attachments/assets/57659063-c590-49b7-aaeb-e47222cafdc8)
