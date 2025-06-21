@@ -54,4 +54,4 @@ Developed by Sushanth Reddy
 ![Image](https://github.com/user-attachments/assets/072fcf46-ef3d-454c-961b-0486b004a5ca)
 ![Image](https://github.com/user-attachments/assets/34003e0d-303a-406e-84ce-5d2a65f935ac)
 ![Image](https://github.com/user-attachments/assets/7e5d2258-be8e-4ccb-86b2-9c59a593c97b)
-![Image](https://github.com/user-attachments/assets/61a0a74a-3f8b-484a-ae45-a2cb1ba35326)
+
